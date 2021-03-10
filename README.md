@@ -1,7 +1,5 @@
-*********************************************************
-*                    OS_ysu_course                      *
-*  Github repo for Operating Systems university course  *
-*********************************************************
+OS_ysu_course
+# Github repo for Operating Systems university course
 
 Task 1: Dining philosophers problem
 
