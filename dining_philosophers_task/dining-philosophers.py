@@ -66,7 +66,7 @@ class Philosopher (threading.Thread):
         self.butler = butler
 
     def run(self):
-        for i in range(20):
+        for i in range(10):
             self.butler.down()              # start service by butler
             time.sleep(0.1)                 # think
             self.left.take(self.number)     # pickup left chopstick
